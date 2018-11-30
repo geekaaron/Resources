@@ -8,7 +8,7 @@
 #### Programming Languages
 ##### Books
 + [The_C_Programming_Language.pdf](./resouces/The_C_Programming_Language.pdf)
-+ [Structure_and_Interpretation_of_Computer_Programs.pdf](./resources Structure_and_Interpretation_of_Computer_Programs.pdf)
++ [Structure_and_Interpretation_of_Computer_Programs.pdf](./resources/Structure_and_Interpretation_of_Computer_Programs.pdf)
 + [Professional_Assembly_Language.pdf](./resources/Professional_Assembly_Language.pdf)
 + [Assembly64.pdf](./resource/Assembly64.pdf)
 ##### Websites
@@ -76,7 +76,7 @@
 
 #### Some Others
 ##### Books
-+ [Linus Torvalds, David Diamond - Just for fun The Story of an Accidental Revolutionary.pdf](./resources/Linus Torvalds, David Diamond - Just for fun The Story of an Accidental Revolutionary.pdf)
++ [Just_For_Fun.pdf](./resources/Just_For_Fun.pdf)
 + [Free_As_In_Freedom_2.0.pdf](./resources/Free_As_In_Freedom_2.0.pdf)
 ##### Websites
 
