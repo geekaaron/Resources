@@ -57,7 +57,7 @@
 #### Operating System
 ##### Books
 + Intel Manual [325462-sdm-vol-1-2abcd-3abcd.pdf](./resources/325462-sdm-vol-1-2abcd-3abcd.pdf)
-+ [OS-dev.pdf](./resources/OS-dev.pdf)
++ [Writing_a_Simple_Operating_System--from_Scratch.pdf](./resources/Writing_a_Simple_Operating_System--from_Scratch.pdf)
 + [The_Design_of_The_Unix_Operating_System.pdf](./resources/The_Design_of_The_Unix_Operating_System.pdf)
 ##### Websites
 + [http://www.osdever.net/](http://www.osdever.net/)
